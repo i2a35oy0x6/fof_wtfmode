@@ -1,5 +1,5 @@
 # fof_wtfmode
- Fistful of Frags WTFMode
+WTFMode for Fistful of Frags
 # Requirements
 - SourceMod 1.10 or later
 # Installation
